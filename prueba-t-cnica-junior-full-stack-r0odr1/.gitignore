@@ -1,0 +1,17 @@
+# General
+bin/
+obj/
+node_modules/
+dist/
+.idea/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Logs
+*.log
+
+# Environment files
+.env
